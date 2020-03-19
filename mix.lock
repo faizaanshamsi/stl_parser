@@ -1,0 +1,3 @@
+%{
+  "graphmath": {:hex, :graphmath, "2.4.0", "149ad0e6f4f98d2cdd22697c953460a6ce23ac4a162394825e6743b5efeba518", [:mix], [], "hexpm", "28c6e7bd3e918fe6a8bea11108fa79b075bfecf1870be450bc9a71051a562592"},
+}
